@@ -34,7 +34,7 @@ function App() {
       
       {/* Main content */}
       <div className="relative h-full w-full flex justify-center items-center">
-          <div className='flex justify-center mt-[42.5%] translate-x-2 md:mt-[30%] md:translate-x-10'>
+          <div className='flex justify-center mt-[42.5%] translate-x-3 md:mt-[30%] md:translate-x-10'>
             <div className='grid content-center z-40'>
               <a
                 href="https://pump.fun/board"
