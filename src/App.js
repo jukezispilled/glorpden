@@ -37,7 +37,7 @@ function App() {
           <div className='flex justify-center mt-[35%] translate-x-5 md:mt-[30%] md:translate-x-10'>
             <div className='grid content-center z-40'>
               <a
-                href="https://raydium.io/swap/"
+                href="https://pump.fun/board"
                 className='font-custom text-4xl md:text-5xl lg:text-6xl text-white bg-gradient-to-r from-[#5feb3e] via-[#80ff60] to-[#5feb3e] border-4 animate-text p-6 rounded-xl md:hover:scale-105 transition ease-in-out duration-200'
               >
                 BUY
