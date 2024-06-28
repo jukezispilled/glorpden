@@ -44,7 +44,7 @@ function App() {
               </a>
               <div className='pt-8 text-center font-custom text-2xl flex justify-center -mt-3'>
                 <a href="https://twitter.com/joeglorpden" className='p-2 md:hover:scale-110 transition ease-in-out duration-200'><img src={Xlogo} alt='Xlogo' className='w-12 h-12 rounded-md'></img></a>
-                <a href="https://t.me/glorpden" className='p-2 md:hover:scale-110 transition ease-in-out duration-200'><img src={TG} alt='Tg logo' className='w-12 h-12'></img></a>
+                <a href="https://t.me/JoeGlorpden" className='p-2 md:hover:scale-110 transition ease-in-out duration-200'><img src={TG} alt='Tg logo' className='w-12 h-12'></img></a>
               </div>
             </div>
           </div>
