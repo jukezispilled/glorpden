@@ -1,6 +1,6 @@
 import React from 'react';
 import giphyBackground from './hq720.jpg'; // Import your WEBP background
-import bgImage from './bg.png'; // Import your PNG background
+import bgImage from './bg-min.png'; // Import your PNG background
 import Xlogo from './xlogo.jpg';
 import TG from './tg.png';
 
